@@ -29,9 +29,25 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+### Cross-Functional Roles Checklist
+Consider which roles are needed for this project (refer to [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)):
+- [ ] Developers (implementation)
+- [ ] Product Manager (vision, prioritization)
+- [ ] Project Manager (coordination, delivery)
+- [ ] UX Designer (user experience, design)
+- [ ] DevOps Engineer (CI/CD, infrastructure, deployment)
+- [ ] Security Lead (security review, threat modeling)
+- [ ] Support Lead (post-release support planning)
+- [ ] QA/Testing (quality validation)
+- [ ] Other stakeholders or specialists
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Cross-functional roles identified and relevant team members engaged
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Initial security and compliance considerations identified (if applicable)
+- [ ] UX/design requirements scoped (if customer-facing)
+- [ ] Infrastructure and deployment approach considered (if applicable)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
